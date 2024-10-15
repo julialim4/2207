@@ -19,7 +19,7 @@ criaCartao(
 criaCartao(
 'biologia',
 'o que é a fotossíntese?',
-'e´um precesso pelo qual as plantas convvertem luz solar em energia',
+'é um precesso pelo qual as plantas convvertem luz solar em energia',
 )
 
 criaCartao(
