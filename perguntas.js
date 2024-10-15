@@ -17,7 +17,7 @@ criaCartao(
  )
 
 criaCartao(
-'biologia'
+'biologia',
 'o que é a fotossíntese?',
 'e´um precesso pelo qual as plantas convvertem luz solar em energia',
 )
@@ -48,7 +48,7 @@ criaCartao(
 
 criaCartao(
     'história',
-    'Quem foi Dom Pedro I?,
+    'Quem foi Dom Pedro I?',
     'Primeiro imperador do Brasil, proclamou a independência em 1822'
 )
 
@@ -106,14 +106,6 @@ criaCartao(
 )
 
 
-
-
-criaCartao(
-
-
-
-
-)
 
 
 
