@@ -10,7 +10,7 @@
     <p>${pergunta}</p>
      </div>
      <div class="reposta-cartao">
-    <p>${reposta}</p>
+    <p>${resposta}</p>
      </div>
 </div>
 `
