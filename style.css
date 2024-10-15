@@ -29,10 +29,34 @@ footer{
 }
 
 .cartao{
-
-    
+    flex-grow: 1;
+    flex-basis: calc(33% - 6rem);
+    height: 20rem;
+    margin: 1rem;
 }
 
+.conteudo-cartao{
+    background-color: var(--cartao-frente);
+    text-align: center;
+    height: 100%;
+}
+
+.conteudo-cartao h3{
+    color: var(--destaque);
+    border: 1px solid var(--destaque) ;
+    text-align: left;
+    position: absolute;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
+}
+
+.conteudo-cartao p{
+    margin-top: 4rem;
+    font-size: 1.4vw;
+    padding: 2rem;
+}
 
 
 
