@@ -14,7 +14,7 @@
      </div>
 </div>
 `
-container.appendChild(cartao)
+container.appendChild(cartao);
 }
   
   
