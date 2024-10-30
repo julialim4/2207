@@ -105,23 +105,23 @@ criaCartao(
 )
 
 criaCartao(
-''
-''
-''
+    'biotecnologia' ,
+    'O que é biotecnologia?' ,
+    'É o uso de organismos vivos ou suas partes para desenvolver produtos ou processos que melhorem a vida humana.'
 
 )
 
 criaCartao(
-''
-''
-''
+    'biotecnologia' ,
+    'Quais são os principais tipos de biotecnologia?' ,
+    'Biotecnologia médica, agrícola, industrial e ambiental' 
 
 )
 
 criaCartao(
-''
-''
-''
+    'biotecnologia' ,
+    'O que é a clonagem?' ,
+    'É o processo de criar uma cópia geneticamente idêntica de um organismo'
 
 )
 
