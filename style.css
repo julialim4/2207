@@ -70,6 +70,7 @@ footer{
 .reporta-cartao{
     color: var(--destaque);
     font-weight: 700;
+    transform: rotateY(180deg);
 }
 
 .cartao:hover .conteudo-cartao{
