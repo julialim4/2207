@@ -102,12 +102,28 @@ criaCartao(
     'Cite um sistema do corpo humano' ,
     'O sistema cardiovascular é responsável pelo bombeamento de sangue no organismo.'
 
+)
+
+criaCartao(
+''
+''
+''
 
 )
 
+criaCartao(
+''
+''
+''
 
+)
 
+criaCartao(
+''
+''
+''
 
+)
 
 
 

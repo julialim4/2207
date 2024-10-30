@@ -73,7 +73,7 @@ footer{
     transform: rotateY(180deg);
 }
 
-.cartao:hover .conteudo-cartao{
+.pergunta-cartao, .resposta-cartao{
 backface-visibility: hidden;
 
 }
