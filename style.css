@@ -50,6 +50,7 @@ footer{
     margin: 0.5rem;
     border-radius: 0.6rem;
     font-size: 1vw;
+    backface-visibility: hidden;
 }
 
 .conteudo-cartao p{
@@ -70,4 +71,9 @@ footer{
 
 .cartao:hover .conteudo-cartao{
     transform: rotateY(180deg);
+}
+
+.cartao:hover .conteudo-cartao{
+backface-visibility: hidden;
+
 }
