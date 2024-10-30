@@ -71,9 +71,10 @@ footer{
     color: var(--destaque);
     font-weight: 700;
     transform: rotateY(180deg);
+    background-color: var(--cartao-frente);
 }
 
-.cartao:hover .conteudo-cartao{
+.cartao.active .conteudo-cartao{
     transform: rotateY(180deg);
 }
 
