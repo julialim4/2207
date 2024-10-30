@@ -94,13 +94,13 @@ criaCartao(
 criaCartao(
     'biologia',
     'O que é a fotossíntese e qual é sua importância?',
-    '. '
+    'é responsável pela produção de oxigênio'
 )
 
 criaCartao(
     'biologia',
-    'Quais são os principais sistemas do corpo humano e suas funções?',
-    'm'
+    'Cite um sistema do corpo humano' ,
+    'O sistema cardiovascular é responsável pelo bombeamento de sangue no organismo.'
 
 
 )
