@@ -24,14 +24,17 @@
         display: grid;
         padding: 40px;
         gap: 4rem;
-}
-.conteudo-cartao{
+    }
+
+    .conteudo-cartao{
     padding: 40px;
     background-color: var(--cartao-frente);
     color: var(--branco);
-    box-shadow: 5px 5px 5px;
+    box-shadow: 8px 8px 25px var(--preto) ;
+
 }
+
 .respota-cartao{
-    padding: 40px;
+ padding: 40px;
     background-color: var(--cartao-verso);
 }
