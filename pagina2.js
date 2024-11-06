@@ -19,15 +19,12 @@ function criaCartao (categoria, pergunta,resposta){
    }
 
    function mostraRespota(card){
-    const reposta =card.querySelector(' .resposta-cart'
+    const reposta =card.querySelector(' .resposta-cartao' )
       if(resposta.style.display === 'none') {
         reposta.style.display='block';
       }
-      else()
-
-
-    )
-
-
+      else(
+        reposta.style.display = 'none';
+      )
    }
   
