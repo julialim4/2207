@@ -20,7 +20,7 @@
         text-align: center;
     }
 
-    #contaioner{
+    #container{
         display: grid;
         padding: 40px;
         gap: 4rem;
@@ -34,12 +34,12 @@
     cursor: pointer;
 }
 
-.respota-cartao{
+.reposta-cartao{
  padding: 40px;
     background-color: var(--cartao-verso);
     display: none ;
 }
 
 .conteudo-cartao:hover {
-    transform: scale(1,04);
+    transform: scale(1.04);
 }
