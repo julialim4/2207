@@ -23,8 +23,8 @@ function criaCartao (categoria, pergunta,resposta){
       if(resposta.style.display === 'none') {
         reposta.style.display='block';
       }
-      else(
+      else{
         reposta.style.display = 'none';
-      )
+      }
    }
   
