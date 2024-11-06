@@ -6,7 +6,7 @@
   
   <div class="conteudo-cartao">
     <h3>${categoria}</h3>
-    <div class="pertunta-cartao">
+    <div class="pergunta-cartao">
     <p>${pergunta}</p>
      </div>
      <div class="reposta-cartao">
