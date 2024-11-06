@@ -78,7 +78,7 @@ footer{
     font-weight: 500;
 }
 
-.reporta-cartao{
+.reposta-cartao{
     color: var(--destaque);
     font-weight: 700;
     transform: rotateY(180deg);
@@ -89,11 +89,11 @@ footer{
     transform: rotateY(180deg);
 }
 
-.pergunta-cartao, .resposta-cartao{
+.pergunta-cartao, .reposta-cartao{
 backface-visibility: hidden;
 position: absolute;
 height: 100%;
-width: 100%:
+width: 100%;
 }
 
 
