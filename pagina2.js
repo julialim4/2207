@@ -4,7 +4,7 @@ function criaCartao (categoria, pergunta,resposta){
     cartao.className = 'cartao';
     cartao.innerHTML=`
     
-    <div class="conteudo-cartao">
+    <div class="conteudo-cartao" onclick = "mostraRespota(this)">
       <h3>${categoria}</h3>
       <div class="pertunta-cartao">
       <p>${pergunta}</p>
@@ -16,5 +16,18 @@ function criaCartao (categoria, pergunta,resposta){
   `
   
   container.appendChild(cartao);
+   }
+
+   function mostraRespota(card){
+    const reposta =card.querySelector(' .resposta-cart'
+      if(resposta.style.display === 'none') {
+        reposta.style.display='block';
+      }
+      else()
+
+
+    )
+
+
    }
   
