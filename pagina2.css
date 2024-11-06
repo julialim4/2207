@@ -37,7 +37,7 @@
 .respota-cartao{
  padding: 40px;
     background-color: var(--cartao-verso);
-    display: none;
+    display: none ;
 }
 
 .conteudo-cartao:hover {
